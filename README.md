@@ -8,7 +8,7 @@ In this project, we built an exclusive clubhouse where members can write embarra
 - Ruby On Rails,
 
 ## Getting Started
-
+[![Run on Repl.it](https://repl.it/badge/github/trekab/members-only)](https://repl.it/github/trekab/members-only)
 To get a local copy up and running follow these simple example steps.
 - git clone git@github.com:trekab/members-only.git
 
